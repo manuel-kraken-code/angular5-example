@@ -1,0 +1,10 @@
+/.idea
+.DS_Store
+/node_modules
+/vender
+/src/**/* js
+/src/**/* js.map
+/public_html/dist
+/public_html/index.html
+/npm-debug.log
+/webpack/target.js
